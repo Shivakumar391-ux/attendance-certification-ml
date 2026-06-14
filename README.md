@@ -46,4 +46,4 @@ A milestone project that builds an attendance tracking and certification system 
 
 ## Author
 
-ML Internship Milestone Project
+S.Shivakumar
